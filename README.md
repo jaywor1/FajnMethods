@@ -17,3 +17,8 @@ FajnMethods.Ok()
 Preview
 
 ![OkMsg](https://user-images.githubusercontent.com/103755136/181599379-cabde34c-3255-47bf-84b5-77b05146ac49.png)
+
+
+# TODO
+
+Other methods preview soon
